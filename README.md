@@ -103,3 +103,5 @@ Auth, Contacts, Conversations, Flows, Webhooks, External API (API key auth)
 
 ## 📋 License
 MIT
+
+###  For More Detail Email: ametvaid@gmail.com
